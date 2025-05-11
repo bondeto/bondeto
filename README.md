@@ -1,16 +1,38 @@
 ## Hi there 👋
 
-<!--
-**bondeto/bondeto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hey, I'm Bondetoz
 
-Here are some ideas to get you started:
+## 💻 Full Stack Developer | Laravel 11, React Native, Livewire 3, Filament 3
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate full-stack developer who loves building scalable, clean, and elegant web & mobile applications using modern tools. I thrive on architecting systems that not only **work flawlessly** but are also **a joy to maintain**.
+
+### 🛠️ Tech Stack
+- **Back-End:** Laravel 11, Livewire 3, Filament 3
+- **Front-End:** TailwindCSS, DaisyUI, Alpine.js
+- **Mobile:** React Native + Expo
+- **Tools & DevOps:** Git, Docker, MySQL, PostgreSQL, REST API, CI/CD
+- **Bonus:** Mac automation, AI integration, game servers (CS2)
+
+### 💡 Philosophy
+> "Keep it smart, keep it simple — scalable solutions win."
+
+I aim for:
+- Clean architecture & reusable components.
+- User-first design with TailwindCSS.
+- Real-time interactivity with Livewire & Alpine.
+- Mobile-first, future-proof code.
+
+### 🧠 What I'm Up To
+- Building complex admin panels with Filament 3.
+- Crafting powerful mobile apps with React Native.
+- Automating workflows with smart tools & AI.
+- Playing CS2 like it's 2004 😄.
+
+### 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=bondeto&show_icons=true&theme=radical)
+
+
+---
+
+> 🔧 Open to remote contracts or collabs on projects.
+
