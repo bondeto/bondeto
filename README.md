@@ -7,11 +7,11 @@
 I'm a passionate full-stack developer who loves building scalable, clean, and elegant web & mobile applications using modern tools. I thrive on architecting systems that not only **work flawlessly** but are also **a joy to maintain**.
 
 ### 🛠️ Tech Stack
-- **Back-End:** Laravel 11, Livewire 3, Filament 3
+- **Back-End:** Laravel , Livewire , Filament, Go
 - **Front-End:** TailwindCSS, DaisyUI, Alpine.js
 - **Mobile:** React Native + Expo
 - **Tools & DevOps:** Git, Docker, MySQL, PostgreSQL, REST API, CI/CD
-- **Bonus:** Mac automation, AI integration, game servers (CS2)
+- **Bonus:** Mac automation, AI integration
 
 ### 💡 Philosophy
 > "Keep it smart, keep it simple — scalable solutions win."
