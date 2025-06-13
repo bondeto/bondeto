@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-# 👋 Hey, I'm Bondetoz
-
-## 💻 Full Stack Developer | Laravel 11, React Native, Livewire 3, Filament 3
-
-I'm a passionate full-stack developer who loves building scalable, clean, and elegant web & mobile applications using modern tools. I thrive on architecting systems that not only **work flawlessly** but are also **a joy to maintain**.
 
 ### 🛠️ Tech Stack
 - **Back-End:** Laravel , Livewire , Filament, Go
